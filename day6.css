@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(128, 34, 135);
+    
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+div {
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+form {
+    width: 900px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 40px;
+    margin: 100px;
+    border-radius: 30px;
+    
+}
+
+label {
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    
+}
+
+input {
+  border-radius: 50px;
+    width: 350px;
+    height: 40px;
+}
+
+
+
+span {
+    color: red;
+}
+
+
+
+button {
+    background-color: rgb(224, 35, 35);
+    margin-top: 50px;
+    margin-left: 350px;
+    padding: 10px;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 40px;
+    width: 150px;
+}
+
+
+
+
+
+button:hover {
+    background-color: red;
+    cursor: pointer;
+
+}
+
+
+
+
+.tex1 {
+    width: 80%px;
+   height: 100px;
+
+}   
+
+#tex4 {
+    width: 735px;
+  
+}
+
+
+
+
+
+
